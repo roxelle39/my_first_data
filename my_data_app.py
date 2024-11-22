@@ -29,6 +29,8 @@ st.markdown('''<style> .stButton>button {
     font-size: 12px;
     height: 3em;
     width: 25em;
+    color: #FFFAAF; /* Couleur du texte */
+    background-color: #E3546;
 }</style>''', unsafe_allow_html=True)
 
           
